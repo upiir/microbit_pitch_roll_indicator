@@ -27,6 +27,10 @@ Similar videos using Nextion displays:
 ![THUMB_pitch_roll_indicator](https://github.com/upiir/microbit_pitch_roll_indicator/assets/117754156/8adf65c8-f8fe-42b8-875d-4aa92753f76a)
 
 
+Small animation:
+
+![pitch_roll_indicator](https://github.com/upiir/microbit_pitch_roll_indicator/assets/117754156/76ed42aa-fcab-4aba-a823-ca5745414561)
+
 
 
 
