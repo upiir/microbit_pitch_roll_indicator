@@ -5,6 +5,7 @@ Custom Pitch and Roll indicator using MicroBit and Nextion Display
 
 
 
+![THUMB_pitch_roll_indicator](https://github.com/upiir/microbit_pitch_roll_indicator/assets/117754156/8adf65c8-f8fe-42b8-875d-4aa92753f76a)
 
 
 
