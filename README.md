@@ -2,6 +2,25 @@
 Custom Pitch and Roll indicator using MicroBit and Nextion Display
 
 
+**YOUTUBE VIDEO: https://youtu.be/S_ppdbb0poQ**
+
+Links from the video:
+- HUD displays on AliExpress: https://s.click.aliexpress.com/e/_DFY77GL
+- Carpuride displays: https://carpuride.com/discount/UPIR?ref=upq4bfsd
+- Microbit code: https://makecode.microbit.org/_bXH9irTHtVbY
+- Makecode Microbit: https://makecode.microbit.org/#editor
+- Photopea: https://www.photopea.com/
+- Nextion 5" Intelligent 800x480px: https://s.click.aliexpress.com/e/_DBHVDAr
+- Nextion 5" Basic 800x480: https://s.click.aliexpress.com/e/_DCnWpLv
+- Microbit board (v2): https://s.click.aliexpress.com/e/_DFtxKe3
+- Microbit expansion shield: https://s.click.aliexpress.com/e/_DFhKyXV
+- Microbit expansion from video: https://s.click.aliexpress.com/e/_Ddt9yGJ
+
+Similar videos using Nextion displays:
+- Arduino Numpad Display - https://youtu.be/GuEdR9CSPck
+- DIY Typewriter - https://youtu.be/ATPutFn6jfk
+- My biggest project so far... - https://youtu.be/tQaJ0RHUIi0
+- Car gauges with Micro:bit and Nextion Display - https://youtu.be/NpZMQjdKxBI
 
 
 
