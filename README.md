@@ -1,5 +1,5 @@
-# Custom Pitch and Roll indicator using MicroBit and Nextion Display
-Custom Pitch and Roll indicator using MicroBit and Nextion Display
+# Custom Pitch and Roll indicator using micro:bit and Nextion Display
+Custom Pitch and Roll indicator using micro:bit and Nextion Display
 
 
 **YOUTUBE VIDEO: https://youtu.be/S_ppdbb0poQ**
