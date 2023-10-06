@@ -8,6 +8,8 @@ Custom Pitch and Roll indicator using MicroBit and Nextion Display
 
 
 
+
+
 Screenshots from the video:
 
 ![CAMTASIA_carpuride_pitch_roll_indicator (Time 0_00_15;04)](https://github.com/upiir/microbit_pitch_roll_indicator/assets/117754156/4786aa3f-c3eb-42b0-9854-1418856df8f1)
